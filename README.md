@@ -1,4 +1,4 @@
-# Documentation of Data Cleaning Project for LISS panel
+# Documentation of Data Cleaning Project for LISS Panel
 
 ## LISS panel
 
