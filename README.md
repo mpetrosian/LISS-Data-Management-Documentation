@@ -7,13 +7,5 @@ The [LISS panen](https://www.lissdata.nl/) is an internet-based household panel 
 
 To use this repository (and get access to LISS panel files) you must register [here](https://www.dataarchive.lissdata.nl/) first.
 
-## Motivation
-
-- Data cleaning is an important component of empirical research projects.
-- But it can be very tedious.
-- Cleaned data sets can be used for several different research projects → public good
-- The goal of this repository is to share the effort associated with the most basic parts of data cleaning.
-
-The basic idea is that all fundamental data cleaning that is helpful in (almost) all projects using this data set should be done within the liss-data repo. Examples are the renaming of variables, renaming of values (e.g. "I don't know -> np.nan"), or the calculation of simple variables that are often used (e.g. `has_risky_financial_assets = risky_financial_assets > 0`).
-
-Conversely, specific data management that is mostly relevant for your project, in particular the merging of data sets and selecting of specific observations, should be done outside of this repo in your own project folder.
+## Documentation
+ This repository contains only the documentation on the LISS data-cleaning project. The codes themselves as well as the data are not currently publicly available.  
