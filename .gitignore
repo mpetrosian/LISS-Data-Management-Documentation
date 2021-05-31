@@ -1,6 +1,3 @@
-out
-regression_test_files
-
 *-blx.bib
 *.asv
 *.aux
@@ -45,6 +42,7 @@ waf3-*
 !.environment.windows.yml
 !.environment.linux.yml
 !.env
+!.readthedocs.yml
 .*pdfsvn
 __pycache__
 analysis_out
