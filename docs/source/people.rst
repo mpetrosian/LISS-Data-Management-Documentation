@@ -8,15 +8,15 @@ We would be more than happy if people find this repository useful.
 
 If you would like to contribute to this package, please join the OSE `Zulip Workspace <https://ose.zulipchat.com/join/rqccatmdndepvpftco4tyvyz/>`_ and contact one of the project members.
 
-Current Project Team
-====================
+Project Team
+============
 
 * Moritz Mendel
 * Mariam Petrosyan
 * Christian Zimpelmann
 
-Former Contributors
-===================
+Current and Former Contributors
+===============================
 
 * Hans-Martin von Gaudecker
 * Felipe Azuero
