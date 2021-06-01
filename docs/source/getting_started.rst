@@ -13,7 +13,7 @@ To do so, please follow these steps:
 
 - Register for LISS access `here <https://www.dataarchive.lissdata.nl/>`_
 - Join the OSE `Zulip Workspace <https://ose.zulipchat.com/join/rqccatmdndepvpftco4tyvyz/>`_
-- Contact: `Mariam Petrosyan<mpetrosyan@uni-bonn.de>`_
+- Contact: `Mariam Petrosyan <mpetrosyan@uni-bonn.de>`_
 
 Modes of Use
 ============
