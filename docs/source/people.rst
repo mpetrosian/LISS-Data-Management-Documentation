@@ -15,8 +15,8 @@ Current Project Team
 * Mariam Petrosyan
 * Christian Zimpelmann
 
-(Former) Contributors
-=====================
+Former Contributors
+===================
 
 * Hans-Martin von Gaudecker
 * Felipe Azuero
