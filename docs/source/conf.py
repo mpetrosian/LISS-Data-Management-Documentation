@@ -46,7 +46,7 @@ source_encoding = "utf-8"
 master_doc = "index"
 
 # General information about the project.
-project = u"TTT"
+project = u"LISS Panel Data Management"
 copyright = u"2013-, NNN"
 
 # The version info for the project you"re documenting, acts as replacement for
