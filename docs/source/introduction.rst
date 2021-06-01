@@ -4,7 +4,7 @@
 Introduction
 ************
 
-Documentation on the liss-data cleaning repository (by OSE?). This repository cleans the datasets of the LISS (Longitudinal Internet Studies for the Social sciences) panel. It is written in Python.
+Documentation on the liss-data cleaning repository. This repository cleans the datasets of the LISS (Longitudinal Internet Studies for the Social sciences) panel. It is written in Python.
 
 .. _liss_panel:
 
