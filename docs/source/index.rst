@@ -18,10 +18,7 @@ The `LISS panel <https://www.lissdata.nl/>`_ is an internet-based household pane
 Motivation
 ---------- 
 
-Data cleaning is an important component of empirical research projects.
-- But it can be very tedious.
-- Cleaned data sets can be used for several different research projects → public good
-- The goal of this repository is to share the effort associated with the most basic parts of data cleaning.
+Data cleaning is an important component of empirical research projects. The goal of this repository is to share the effort associated with the most basic parts of data cleaning.
 
 The basic idea is that all fundamental data cleaning that is helpful in (almost) all projects using this data set should be done within the liss-data repo. Examples are the renaming of variables, renaming of values (e.g. "I don't know -> np.nan"), or the calculation of simple variables that are often used (e.g. `has_risky_financial_assets = risky_financial_assets > 0`).
 
