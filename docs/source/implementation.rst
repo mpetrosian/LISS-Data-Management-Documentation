@@ -12,7 +12,9 @@ The script performs the following steps for each study that is specified in `spe
 1. Collect all .dta files in the specific folder (e.g. `data/002-health/`).
 2. Rename all variables according to the respective renaming file. (e.g. `specifications/002-health_renaming.csv`).
 3. Put all waves together for a panel data set.
-4. Perform some data cleaning.
+4. Replace values of variables (for some data sets) based on replacing file.
+5. Set types of variables (either as specified in the renaming file or infered by the values of the variable).
+4. Perform some further data cleaning.
 5. Save as .pickle, .dta, and/or .csv
 
 See `pytask documentation <https://pytask-dev.readthedocs.io/en/latest/>`_ for more information on the project builder that is used.
@@ -42,3 +44,8 @@ Renaming Files
 - Variables in different waves in the same row get the same name.
 - Variables for which no new name is specified, are dropped.
 
+Replacing Files
+===============
+
+- The renaming files are ``yaml``-files and specify how the values of variables should be renamed.
+- They do not exist for all data sets.
