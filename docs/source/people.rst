@@ -19,6 +19,7 @@ Current and Former Contributors
 ===============================
 
 * Hans-Martin von Gaudecker
+* Radost Holler
 * Felipe Azuero
 * Renata Abikeyeva
 * Axel Wogrolly
