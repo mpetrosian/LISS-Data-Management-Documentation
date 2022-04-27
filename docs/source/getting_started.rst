@@ -37,6 +37,7 @@ Setting up the Project
 Make sure you have your conda environment up to date. Basic requirements are specified
 in the `environment.yml` file. In the root folder of the project:
 
+- run `conda develop .`
 - run `pytask`
 
 This resource can be helpful to get an understanding of pytask: `pytask documentation
