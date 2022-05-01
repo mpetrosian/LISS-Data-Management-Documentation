@@ -42,4 +42,7 @@ done outside of this repo in your own project folder.
 .. toctree::
     :maxdepth: 2
 
-    getting_started implementation advanced_usage people
+    getting_started
+    implementation
+    advanced_usage
+    people
